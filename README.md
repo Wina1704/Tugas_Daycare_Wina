@@ -46,10 +46,14 @@
    - Administrator
 
 3. Use Case:
-   ![Use Case Daycare](https://github.com/Wina1704/Tugas_Daycare_Wina/assets/145960008/74543529-050c-472f-97ab-a930b33b7634)
+   
+      ![Use Case Daycare](https://github.com/Wina1704/Tugas_Daycare_Wina/assets/145960008/74543529-050c-472f-97ab-a930b33b7634)
 
 4. Class Diagram:
+
    ![Class Diagram Daycare](https://github.com/Wina1704/Tugas_Daycare_Wina/assets/145960008/057a59ce-6df7-4dbe-bc07-3c654eb56463)
 
 5. ERD:
+
    ![ERD Daycare](https://github.com/Wina1704/Tugas_Daycare_Wina/assets/145960008/bef292d1-9477-4968-a1b1-e52ceb6b3ffc)
+
